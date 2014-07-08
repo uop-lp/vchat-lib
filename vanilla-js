@@ -1,0 +1,7 @@
+vanilla-js
++var peerConnection = newRTC Peer Connection();
+ +var dataChannel = peerConnection. createDataChannel (" mysigninname");
+ +dataChannel.onmessage =function (event){
+ +console.log (" I have received a datachannel message", event.data);
+ +};
+ +dataChannel.send ("HelloWorld! I am here");
