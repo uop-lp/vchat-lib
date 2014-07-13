@@ -9,6 +9,7 @@
     "chai": "~1.8.1"
   },
   "dependencies": {
-    "tiny-emitter": "~0.1.12"
+    "tiny-emitter": "~0.1.12",
+    "reqwest": "~1.1.1"
   }
 }
