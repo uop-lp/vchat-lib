@@ -1,4 +1,4 @@
-# Require.js Library Skeleton
+# Video Chat Library
 
 
 ### Structure
